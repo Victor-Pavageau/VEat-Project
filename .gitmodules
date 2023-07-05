@@ -1,0 +1,15 @@
+[submodule "VEat-Client"]
+	path = VEat-Client
+	url = git@github.com:Victor-Pavageau/VEat-Client.git
+[submodule "VEat-Driver"]
+	path = VEat-Driver
+	url = git@github.com:Victor-Pavageau/VEat-Driver.git
+[submodule "VEat-Restaurant"]
+	path = VEat-Restaurant
+	url = git@github.com:Victor-Pavageau/VEat-Restaurant.git
+[submodule "VEat-External-Package"]
+	path = VEat-External-Package
+	url = git@github.com:Victor-Pavageau/VEat-External-Package.git
+[submodule "VEat-Microservices"]
+	path = VEat-Microservices
+	url = git@github.com:Victor-Pavageau/VEat-Microservices.git
